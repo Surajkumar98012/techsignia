@@ -31,3 +31,7 @@ Architecture:-<br>
 Server 1-It consist of jenkins master and nagios installed<br>
 Server 2-Testing Server,Jenkins Slave<br>
 Server 3-Prod Server,Jenkins Slave
+
+<br><br>
+Checkout the website here:-
+https://surajkumar98012.github.io/techsignia/
