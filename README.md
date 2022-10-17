@@ -1,6 +1,6 @@
 # Devops LifeCycle implementation
 
-# In this project i implemented thecomplete devops lifecycle to my old website.
+# In this project i implemented the complete devops lifecycle to my old website.
 
 Following are the specification of lifecycle:-
 
