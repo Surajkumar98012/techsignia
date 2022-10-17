@@ -34,12 +34,6 @@ Server 3-Prod Server,Jenkins Slave
 
 <br>
 ![Screenshot (79)](https://user-images.githubusercontent.com/62923466/196124860-6b4850e6-d179-4f93-b66f-f4f6f6b18c08.png)
-![Screenshot (80)](https://user-images.githubusercontent.com/62923466/196124861-db377ec2-4db3-4801-85d0-fd17e76cafdd.png)
-![Screenshot (81)](https://user-images.githubusercontent.com/62923466/196124835-36d1459c-aa36-435c-b761-766bf90a774c.png)
-![Screenshot (83)](https://user-images.githubusercontent.com/62923466/196124847-c07cf422-b2e8-43aa-a15e-8a5d63f38d9e.png)
-![Screenshot (84)](https://user-images.githubusercontent.com/62923466/196124850-139a747c-cab5-4f7f-addc-eaaa775af279.png)
-![Screenshot (85)](https://user-images.githubusercontent.com/62923466/196124851-9f06724f-b939-439f-bc95-9e229a7a6933.png)
-![Screenshot (86)](https://user-images.githubusercontent.com/62923466/196124855-d04025ef-e4c3-4a85-889b-3102e58f8672.png)
 
 <br><br>
 Checkout the website here:-
